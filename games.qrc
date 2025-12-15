@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>game_data/testgames.csv</file>
+    </qresource>
+</RCC>
