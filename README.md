@@ -11,7 +11,9 @@ ConnectN is desktop Qt application that extends the classic Connect-4 game to Co
 - custom QObject
 - MVC design
 
-Have a look at the [video demo](https://youtu.be/oc9h_X-DQfA) to see the game features in action.
+Have a look at the [video demo](https://youtu.be/oc9h_X-DQfA) to see the game features in action:
+
+<a href="https://youtu.be/oc9h_X-DQfA" target="_blank"><img src="/assets/ConnectN.png" alt="Demo image" width="75%"></a>
 
 ## MVC architecture
 The `ConnectN`, `Board`, and `Player` classes work together to form the underlying data model for the game. These use standard C++ data types like `int`, `string`, and `vector`.
